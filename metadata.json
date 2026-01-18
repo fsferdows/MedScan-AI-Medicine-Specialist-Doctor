@@ -1,0 +1,8 @@
+{
+  "name": "MedScan AI: Medicine Specialist Doctor",
+  "description": "An AI-powered medical assistant that recognizes medicines via video call and provides professional healthcare advice using Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
